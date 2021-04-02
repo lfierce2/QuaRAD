@@ -5,9 +5,12 @@ Version 1.0.0
 
 Released 2021-3-10
 
-**Dependencies:** NumPy, SciPy, matplotlib, pandas, SALib, pickle, os, pyDOE
+##Reference
 
-**Model description:** "Simulating near-field enhancement in transmission of airborne viruses with a quadrature-based model"
+
+##Dependencies
+NumPy, SciPy, matplotlib, pandas, SALib, pickle, os, pyDOE
+
 
 ## License
 GNU General Public License v3.0

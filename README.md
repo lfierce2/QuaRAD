@@ -6,7 +6,7 @@ Version 1.0.0
 Released 2021-3-10
 
 ## Reference
-
+L. Fierce, A. Robey, and C. Hamilton (2021), Simulating near-field enhancement in transmission of airborne viruses with a quadrature-based model, *arXiv*, link.
 
 ## Dependencies
 NumPy, SciPy, matplotlib, pandas, SALib, pickle, os, pyDOE

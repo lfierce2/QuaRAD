@@ -9,9 +9,5 @@ Released 2021-3-10
 
 **Model description:** "Simulating near-field enhancement in transmission of airborne viruses with a quadrature-based model"
 
-## Installation
-
-## Usage
-
 ## License
 GNU General Public License v3.0

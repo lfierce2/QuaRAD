@@ -54,7 +54,7 @@ scenario_dir__verify = run.one_scenario(
 # =============================================================================
 # RUN ENSEMBLE OF SCENARIOS
 # =============================================================================
-N_jet = 1
+N_jet = 1000
 N_infection = 10
 ensemble_name = 'orig'
 griddings = ['vs_x']

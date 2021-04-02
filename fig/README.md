@@ -1,0 +1,1 @@
+QuaRAD figures are stored here.

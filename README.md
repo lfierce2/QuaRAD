@@ -5,8 +5,11 @@ Version 1.0.0
 
 Released 2021-3-10
 
-## Reference
-L. Fierce, A. Robey, and C. Hamilton (2021), Simulating near-field enhancement in transmission of airborne viruses with a quadrature-based model: https://arxiv.org/abs/2104.01219.
+## References
+Fierce, L., Robey, A. J., & Hamilton, C. (2021). Simulating near‐field enhancement in transmission of airborne viruses with a quadrature‐based model. Indoor air, 31(6), 1843-1859.
+
+
+Fierce, L., Robey, A. J., & Hamilton, C. (2022). High efficacy of layered controls for reducing exposure to airborne pathogens. Indoor air, 32(2), e12989.
 
 ## Dependencies
 NumPy, SciPy, matplotlib, pandas, SALib, pickle, os, pyDOE

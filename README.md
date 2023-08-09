@@ -8,6 +8,7 @@ Released 2021-3-10
 ## References
 Fierce, L., Robey, A. J., & Hamilton, C. (2021). Simulating near‐field enhancement in transmission of airborne viruses with a quadrature‐based model. Indoor air, 31(6), 1843-1859.
 
+Robey, A. J., & Fierce, L. (2022). Sensitivity of airborne transmission of enveloped viruses to seasonal variation in indoor relative humidity. International Communications in Heat and Mass Transfer, 130, 105747.
 
 Fierce, L., Robey, A. J., & Hamilton, C. (2022). High efficacy of layered controls for reducing exposure to airborne pathogens. Indoor air, 32(2), e12989.
 
